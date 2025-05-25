@@ -5,8 +5,14 @@
 ### 🖍 Skills
 
 <div>
-        <a href="https://www.capcut.com/my-edit?from_page=landing_page">
-          <img alt="Capcup" src="./IMG-20250526-WA0001.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+        <a href="#">
+          <img alt="Lightroom" src="./IMG-20250526-WA0003.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+        </a>
+         <a href="#">
+          <img alt="Lightx" src="./IMG-20250526-WA0004.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+        </a>
+         <a href="#">
+          <img alt="Picart" src="./IMG-20250526-WA0005.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
         </a>
          <a href="#">
           <img alt="Canva" src="./IMG-20250526-WA0000.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
@@ -16,14 +22,8 @@
         </a>
 </div/>
 <div>
-         <a href="#">
-          <img alt="Lightroom" src="./IMG-20250526-WA0003.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
-        </a>
-         <a href="#">
-          <img alt="Lightx" src="./IMG-20250526-WA0004.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
-        </a>
-         <a href="#">
-          <img alt="Picart" src="./IMG-20250526-WA0005.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+<a href="https://www.capcut.com/my-edit?from_page=landing_page">
+          <img alt="Capcup" src="./IMG-20250526-WA0001.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
         </a>
 <a href="#">
           <img alt="Snapseed" src="./IMG-20250526-WA0006.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
