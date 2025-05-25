@@ -11,31 +11,31 @@ Saya adalah seorang desainer grafis yang berpengalaman dan memiliki keahlian khu
 
 ### 🖍 Skills
 
-<div>
-<a href="#" style="background:transparent">
-          <img alt="Lightroom" src="./IMG-20250526-WA0003.jpg?raw=true" width="48" height="48" style="border-radius: 1rem: background: transparent"/>
-        </a>
-         <a href="#">
-          <img alt="Lightx" src="./IMG-20250526-WA0004.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
-        </a>
-         <a href="#">
-          <img alt="Picart" src="./IMG-20250526-WA0005.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
-        </a>
-         <a href="#">
-          <img alt="Canva" src="./IMG-20250526-WA0000.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
-        </a>
-        <a href="#">
-          <img alt="Ibizpaint" src="./IMG-20250526-WA0002.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
-        </a>
-</div/>
-<div>
-<a href="https://www.capcut.com/my-edit?from_page=landing_page">
-          <img alt="Capcup" src="./IMG-20250526-WA0001.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
-        </a>
-<a href="#">
-          <img alt="Snapseed" src="./IMG-20250526-WA0006.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
-        </a>
-     </div>
+<p>
+  <a href="#">
+    <img alt="Lightroom" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Lighroom-icon.png" width="48" height="48"/>
+  </a>
+  <a href="#">
+    <img alt="Lightx" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Lightx-icon.png" width="48" height="48"/>
+  </a>
+  <a href="#">
+    <img alt="Picsart" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Pisart-icon.png" width="48" height="48"/>
+  </a>
+  <a href="#">
+    <img alt="Canva" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Canva-icon.png" width="48" height="48"/>
+  </a>
+  <a href="#">
+    <img alt="Ibispaint" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Ibizpain-icon.png" width="48" height="48"/>
+  </a>
+</p>
+<p>
+  <a href="#">
+    <img alt="CapCut" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Capcut-icon.png" width="48" height="48"/>
+  </a>
+  <a href="#">
+    <img alt="Snapseed" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Snapseed-icon.png" width="48" height="48"/>
+  </a>
+</p>
 
 ### Portofolio
 **Mockup Design**
