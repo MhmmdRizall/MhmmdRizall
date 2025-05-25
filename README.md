@@ -12,7 +12,7 @@ Saya adalah seorang desainer grafis yang berpengalaman dan memiliki keahlian khu
 ### 🖍 Skills
 
 <div>
-        <a href="#">
+        <a href="#" style="background:transfarent">
           <img alt="Lightroom" src="./IMG-20250526-WA0003.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
         </a>
          <a href="#">
@@ -37,7 +37,8 @@ Saya adalah seorang desainer grafis yang berpengalaman dan memiliki keahlian khu
         </a>
      </div>
 
-### Mockup Design
+### Portofolio
+**Mockup Design**
 <div>
       <img alt="Mockup Design" src="./20250523_192257.jpg?raw=true" width="300" height="320" />
 <img alt="Mockup Design" src="./20250523_191927.jpg?raw=true" width="300" height="320" />
