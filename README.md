@@ -12,30 +12,28 @@ Saya adalah seorang desainer grafis yang berpengalaman dan memiliki keahlian khu
 ### 🖍 Skills
 
 <p>
-  <a href="#">
-    <img alt="Lightroom" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Lighroom-icon.png" width="48" height="48"/>
-  </a>
-  <a href="#">
-    <img alt="Lightx" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Lightx-icon.png" width="48" height="48"/>
-  </a>
-  <a href="#">
-    <img alt="Picsart" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Pisart-icon.png" width="48" height="48"/>
-  </a>
-  <a href="#">
-    <img alt="Canva" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Canva-icon.png" width="48" height="48"/>
-  </a>
-  <a href="#">
-    <img alt="Ibispaint" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Ibizpain-icon.png" width="48" height="48"/>
-  </a>
-</p>
-<p>
-  <a href="#">
-    <img alt="CapCut" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Capcut-icon.png" width="48" height="48"/>
-  </a>
-  <a href="#">
-    <img alt="Snapseed" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Snapseed-icon.png" width="48" height="48"/>
-  </a>
-</p>
+      <a href="https://lightroom.adobe.com/">
+        <img alt="Lightroom" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Lighroom-icon.png" width="64" height="64"/>
+      </a>
+      <a href="https://www.lightxeditor.com/">
+        <img alt="Lightx" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Lightx-icon.png" width="64" height="64"/>
+      </a>
+      <a href="https://picsart.com/create">
+        <img alt="Picsart" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Pisart-icon.png" width="64" height="64"/>
+      </a>
+      <a href="https://www.canva.com/">
+        <img alt="Canva" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Canva-icon.png" width="64" height="64"/>
+      </a>
+      <a href="https://ibispaint.com/?lang=en-US">
+        <img alt="Ibispaint" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Ibizpain-icon.png" width="64" height="64"/>
+      </a>
+       <a href="https://www.capcut.com/">
+        <img alt="CapCut" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Capcut-icon.png" width="64" height="64"/>
+      </a>
+      <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=id&pli=1">
+        <img alt="Snapseed" src="https://raw.githubusercontent.com/MhmmdRizall/MhmmdRizall/main/Snapseed-icon.png" width="64" height="64"/>
+      </a>
+    </p>
 
 ### Portofolio
 **Mockup Design**
