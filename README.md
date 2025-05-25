@@ -23,8 +23,10 @@
          <a href="#">
           <img alt="Picart" src="./IMG-20250526-WA0005.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
         </a>
+<a href="#">
+          <img alt="Snapseed" src="./IMG-20250526-WA0006.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+        </a>
      </div>
-
 
 ### Mockup Design
 <div>
