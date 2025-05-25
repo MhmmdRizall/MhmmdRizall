@@ -12,7 +12,7 @@ Saya adalah seorang desainer grafis yang berpengalaman dan memiliki keahlian khu
 ### 🖍 Skills
 
 <div>
-        <a href="#" style="background:transfarent">
+        <a href="#" style="background-color:transfarent">
           <img alt="Lightroom" src="./IMG-20250526-WA0003.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
         </a>
          <a href="#">
