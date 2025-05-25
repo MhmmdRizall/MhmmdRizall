@@ -2,7 +2,7 @@
 
 ![Header](./github-header-image.png)
 
-### Skills
+### 🖍 Skills
 **Design Tools**
 
 <p align="left">
