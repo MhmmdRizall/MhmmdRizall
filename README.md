@@ -4,11 +4,26 @@
 
 ### 🖍 Skills
 
-<p align="left">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-&nbsp;
-<img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-</p>
+<div>
+        <a href="https://www.capcut.com/my-edit?from_page=landing_page">
+          <img alt="Capcup" src="./IMG-20250526-WA0001.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+        </a>
+         <a href="#">
+          <img alt="Canva" src="./IMG-20250526-WA0000.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+        </a>
+        <a href="#">
+          <img alt="Ibizpaint" src="./IMG-20250526-WA0002.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+        </a>
+         <a href="#">
+          <img alt="Lightroom" src="./IMG-20250526-WA0003.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+        </a>
+         <a href="#">
+          <img alt="Lightx" src="./IMG-20250526-WA0004.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+        </a>
+         <a href="#">
+          <img alt="Picart" src="./IMG-20250526-WA0005.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+        </a>
+     </div>
 
 
 ### Mockup Design
