@@ -14,6 +14,8 @@
         <a href="#">
           <img alt="Ibizpaint" src="./IMG-20250526-WA0002.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
         </a>
+</div/>
+<div>
          <a href="#">
           <img alt="Lightroom" src="./IMG-20250526-WA0003.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
         </a>
