@@ -12,9 +12,8 @@ Saya adalah seorang desainer grafis yang berpengalaman dan memiliki keahlian khu
 ### 🖍 Skills
 
 <div>
-[![Lightroom](./IMG-20250526-WA0003.jpg)](#)
-        <a href="#" style="background:transparent">
-          <img alt="Lightroom" src="./IMG-20250526-WA0003.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
+<a href="#" style="background:transparent">
+          <img alt="Lightroom" src="./IMG-20250526-WA0003.jpg?raw=true" width="48" height="48" style="border-radius: 1rem: background: transparent"/>
         </a>
          <a href="#">
           <img alt="Lightx" src="./IMG-20250526-WA0004.jpg?raw=true" width="48" height="48" style="border-radius: 1rem"/>
