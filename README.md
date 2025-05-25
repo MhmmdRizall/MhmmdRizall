@@ -12,4 +12,7 @@
 
 
 ### Mockup Design
-![Header](./20250523_192257.jpg)
+<div>
+      <img alt="Mockup Design" src="./20250523_192257.jpg?raw=true" width="300" height="320" />
+      <img alt="Mockup Design" src="./20250523_192257.jpg?raw=true" width="300" height="320" />
+    </div>
